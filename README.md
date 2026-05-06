@@ -1,2 +1,2 @@
 # recipes
-different recipies (learning web and git)
+different recipies website (learning web and git)
